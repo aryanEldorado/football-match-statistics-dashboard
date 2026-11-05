@@ -49,7 +49,7 @@ Identifies the ten highest-scoring teams.
 
 ## 🖼️ Dashboard Preview
 
-![Football Match Statistics Dashboard](football_dashboard_preview.png.)
+![Football Match Statistics Dashboard](football_dashboard_preview.png..png)
 
 ## 📂 Dataset Information
 
